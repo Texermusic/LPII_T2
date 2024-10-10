@@ -1,5 +1,10 @@
 eclipse.preferences.version=1
-org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/SUITE/.m2/repository
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/Alessandro/Desktop/SpringToolSuite4/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/Mis Archivos/PracticasJavaPython/Java/jdk-17.0.8/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/Mis Archivos/PracticasJavaPython/Java/jdk-17.0.8/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/Alessandro/Desktop/SpringToolSuite4/plugins/org.junit_4.13.2.v20230809-1000.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/Alessandro/.m2/repository
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
